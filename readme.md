@@ -26,5 +26,5 @@ python DQN_variant.py --mode test --save_path /path/to/your/model      # for tes
 After about 9000 episodes, the performance is shown as follows:
 
 <div align="center">
-  <img src="result.gif" alt="result" width="50%" height="50%" />
+  <img src="result.gif" alt="result" width="40%" height="40%" />
 </div>
