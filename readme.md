@@ -7,7 +7,7 @@ python setup.py install
 ```
 
 ## File description
-- gym_examples/: Custom Environment: The agent (_blue dot_) navigates through both static  and dynamic obstacles (_black_) to reach the goal (_green_).
+- gym_examples/: Custom Environment: The agent _(blue dot)_ navigates through both static  and dynamic obstacles _(black)_ to reach the goal _(green)_.
 - dqn_variants/: The folder that stores the model weights in each episode.
 - gym_examples/envs/grid_world.py: The detailed implementation of the env grid_world.
 - DQN_variant.py: Main file， enhancing DQN with APF for Accelerated Training.
