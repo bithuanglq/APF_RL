@@ -2,9 +2,8 @@
 Python 3.10  
 Tensorflow 2.14.0  
 tensorlayer 2.2.5  
-```
-python setup.py install
-```
+gym==0.26.0   
+pygame==2.1.0
 
 ## File description
 - gym_examples/: Custom Environment: The agent _(blue dot)_ navigates through both static  and dynamic obstacles _(black)_ to reach the goal _(green)_.
